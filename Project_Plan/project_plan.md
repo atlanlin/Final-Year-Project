@@ -13,7 +13,7 @@
 
 **YE LIN AUNG**
 
-****
+***
 
 ##Abstract
 
@@ -35,7 +35,7 @@ on the results, it will perform its action and alert the operator. The
 notification alert includes the possible roots of the failure then the
 operator can fix the fault effectively.
 
-———
+***
 
 ##Perspective
 
@@ -76,7 +76,7 @@ be learned -
 
 -   Robotic Applications
 
-———
+***
 
 ##Reasons that I love about Computer Vision
 
@@ -89,7 +89,7 @@ done automatically. Furthermore, it will also creates limitless
 applications and software for developers. It will then affects and
 improves our lifestyles.
 
-——
+***
 
 ##Planning
 
@@ -97,7 +97,7 @@ improves our lifestyles.
 
 ![image not available](images/timetable.png)
 
-——
+***
 
 **Project Timeline**
 
@@ -113,7 +113,7 @@ Integration and User Acceptance test with ABB robot | 20 | 28 Dec 2015 | 22 Jan 
 Fesability for AI framework for image analysis  | 20 | 25 Jan 2016 | 19 Feb 2016
 Project Report and Demo | 15 | 22 Feb 2016 | 11 Mar 2016
 
-——
+***
 
 ##Resources
 
@@ -175,7 +175,7 @@ for vision libraries, openCV is the reliable site for practical
 purposes. I am familiar with C and C++ language, therefore computer
 language is not an obstacle for me.
 
-——
+***
 
 ##Reading List
 -   About Jetson TK1:
