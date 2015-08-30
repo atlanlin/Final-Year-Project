@@ -189,7 +189,7 @@ language is not an obstacle for me.
 - [Dust Sensor](https://www.sparkfun.com/products/9689)
 
 
-- [Basic Introduction about depth sensor and computervision](http://robotica.unileon.es/mediawiki/index.php/PCL/OpenNI_tutorial_0:_The_very_basics)[*The\_very\_basics*](http://robotica.unileon.es/mediawiki/index.php/PCL/OpenNI_tutorial_0:_The_very_basics)
+- [Basic Introduction about depth sensor and computervision](http://robotica.unileon.es/mediawiki/index.php/PCL/OpenNI_tutorial_0:_The_very_basics)
 
 
 - [Basics of ABB robot and programming](http://www.ece.ufrgs.br/~fetter/esp/basic.pdf)
