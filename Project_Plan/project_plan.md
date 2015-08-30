@@ -1,5 +1,5 @@
 ---
-#Robot Monitoring of Robotic processes using Vision and Sensors
+#Evaluation of Low-Power Vision Platform for Robotic Industrial Application
 
 #FINAL YEAR PROJECT PLAN
 
