@@ -178,55 +178,31 @@ language is not an obstacle for me.
 ***
 
 ##Reading List
--   About Jetson TK1:
-    > [*http://elinux.org/*](http://elinux.org/Jetson_TK1)[*Jetson\_TK1*](http://elinux.org/Jetson_TK1)
+- [About Jetson TK1](http://elinux.org/Jetson_TK1)[*Jetson\_TK1*](http://elinux.org/Jetson_TK1)
 
-<!-- -->
+- [Robot Operating System](http://www.ros.org)
 
--   ROS:
-    > [*http://*](http://www.ros.org)[*www.ros.org*](http://www.ros.org)
+- [Point cloud library](http://pointclouds.org)
 
-<!-- -->
+- [Force Sensor](https://www.tekscan.com/products-solutions/force-sensors/a201)
 
--   PCL:
-    > [*http://*](http://pointclouds.org)[*pointclouds.org*](http://pointclouds.org)s
+- [Dust Sensor](https://www.sparkfun.com/products/9689)
 
-<!-- -->
 
--   Force Sensor:
-    > [*https://www.tekscan.com/products-solutions/force-sensors/*](https://www.tekscan.com/products-solutions/force-sensors/a201)[*a201*](https://www.tekscan.com/products-solutions/force-sensors/a201)
+- [Basic Introduction about depth sensor and computervision](http://robotica.unileon.es/mediawiki/index.php/PCL/OpenNI_tutorial_0:_The_very_basics)[*The\_very\_basics*](http://robotica.unileon.es/mediawiki/index.php/PCL/OpenNI_tutorial_0:_The_very_basics)
 
-<!-- -->
 
--   Dust Sensor:
-    > [*https://www.sparkfun.com/products/*](https://www.sparkfun.com/products/9689)[*9689*](https://www.sparkfun.com/products/9689)
+- [Basics of ABB robot and programming](http://www.ece.ufrgs.br/~fetter/esp/basic.pdf)
 
-<!-- -->
 
--   Basic Introduction about depth sensor and computer vision:
-    > [*http://robotica.unileon.es/mediawiki/index.php/PCL/OpenNI\_tutorial\_0:\_*](http://robotica.unileon.es/mediawiki/index.php/PCL/OpenNI_tutorial_0:_The_very_basics)[*The\_very\_basics*](http://robotica.unileon.es/mediawiki/index.php/PCL/OpenNI_tutorial_0:_The_very_basics)
+- [Online course ( optional)  to familiarise with robotics and vision](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
-<!-- -->
+- [Image processing using OpenCV](http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/)
 
--   Basics of ABB robot and programming
+- [OpenCV Tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 
-<!-- -->
+- [Linux Tutorial for beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
--   [*http://www.ece.ufrgs.br/\~*](http://www.ece.ufrgs.br/~fetter/esp/basic.pdf)[*fetter/esp/basic.pdf*](http://www.ece.ufrgs.br/~fetter/esp/basic.pdf)
+- [Linux Tutorials](http://ryanstutorials.net/linuxtutorial/)
 
-<!-- -->
-
--   online course ( optional)  to familiarise with robotics and vision
-    > programming
-
-<!-- -->
-
--   [*https://www.udacity.com/course/intro-to-artificial-intelligence--cs271*](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
-
-<!-- -->
-
--   Image processing using OpenCV :
-
-<!-- -->
-
--   [*http://www.cs.iit.edu/\~agam/cs512/lect-notes/opencv-intro/*](http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/)
+- [Learn C++](http://www.learncpp.com/)
